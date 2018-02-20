@@ -1,0 +1,23 @@
+#adminmenu #menu-posts-cw_sections .wp-menu-image:before {
+ content: "\f00b";
+ font-family: 'FontAwesome' !important;
+ font-size: 18px !important;
+}
+
+#adminmenu #menu-posts-cw_services .wp-menu-image:before {
+ content: "\f0ad";
+ font-family: 'FontAwesome' !important;
+ font-size: 18px !important;
+}
+
+#adminmenu #menu-posts-cw_team .wp-menu-image:before {
+ content: "\f0c0";
+ font-family: 'FontAwesome' !important;
+ font-size: 18px !important;
+}
+
+#adminmenu #menu-posts-cw_work .wp-menu-image:before {
+ content: "\f0b1";
+ font-family: 'FontAwesome' !important;
+ font-size: 18px !important;
+}
